@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant dataset for the San Jose-Sunnyvale-Santa Clara metro in Silicon Valley, California. Covers the tech hub's diverse dining market, filtered by the Restaurants category group. Includes business profiles, ratings, review analytics, competitive benchmarks, and contact data. Refreshed weekly.",
+  "config_name": "All Restaurants in San Jose-Sunnyvale-Santa Clara (Metro), California, US",
+  "export_job_id": "6c51cb2f-3e55-4474-a4a3-308a2e48b91b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 172670,
+  "location_name": "San Jose-Sunnyvale-Santa Clara, CA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-san-jose-sunnyvale-santa-clara-metro-california-us-sample-172670",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/172670/beamstation_172670_restaurants-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 502,
+  "sample_sha256": "4545b2a7c6f30d1d4f154a139c17b98ca2975db7cb8edd42e8fff7f78168686c",
+  "sample_size_bytes": 1819936,
+  "total_records": 5022,
+  "updated_at": "2026-04-14T19:40:14.674980+00:00"
+}
