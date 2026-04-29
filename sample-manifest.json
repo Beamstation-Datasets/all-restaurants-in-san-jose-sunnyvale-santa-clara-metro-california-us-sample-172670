@@ -1,12 +1,12 @@
 {
-  "export_job_id": "be46789e-f06e-4543-8a5e-873b64ed7459",
+  "export_job_id": "499fc8ab-efdc-4981-98c2-c4052a8a00d5",
   "id_short": 172670,
-  "published_at": "2026-04-22T07:08:58Z",
+  "published_at": "2026-04-29T07:22:44Z",
   "repo_name": "all-restaurants-in-san-jose-sunnyvale-santa-clara-metro-california-us-sample-172670",
   "sample_asset_name": "beamstation_172670_restaurants-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/172670/beamstation_172670_restaurants-us-sanjosesunnyvalesantaclaraca_SAMPLE_DIST.csv",
-  "sample_records": 452,
-  "sample_sha256": "db844db1488c60b2666a9d39b02ad96cc0775c48d304ae6b65261f07378179be",
-  "sample_size_bytes": 1656833,
-  "total_records": 4529
+  "sample_records": 429,
+  "sample_sha256": "1ceb49fc6ebd438b6dfb50c46131adb1b8c85f03ca0894f442218043eb897cbe",
+  "sample_size_bytes": 1449817,
+  "total_records": 4296
 }
